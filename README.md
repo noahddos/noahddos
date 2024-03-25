@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @noahddos
-- 💎 I’m interested in ceber security and computer science.
-- 📀 I’m currently learning C++, assembler.
-- 📈 I’m looking to collaborate on kaspersky lab.
+- 💎 I’m interested in MLOps...
+- 📀 I’m currently learning C++, Rust, Python.
 - 📞 Never mind.
 
 <!---
